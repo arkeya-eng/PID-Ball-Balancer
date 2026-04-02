@@ -5,6 +5,8 @@ A physical beam-and-ball balancing system using proportional-derivative (PD) con
 ![Demo Video](media/demo.gif)
 <!-- Replace with an actual gif or remove this line if you don't have one yet -->
 
+![Final Build V2](media/Ver2.PNG)
+
 ## Overview
 
 The system balances a golf ball at a target position on a beam by continuously reading the ball's position with an infrared distance sensor and adjusting the beam angle via a servo motor. A calibrated ADC-to-distance lookup table converts raw sensor readings to centimetres, and a PD control loop computes the required servo correction in real time.
