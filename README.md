@@ -25,7 +25,7 @@ Two full design iterations were completed — a rough prototype to validate the 
 |---|---|
 | Microcontroller | Arduino Uno R3 |
 | Sensor | Sharp GP2Y0A21YK0F IR distance sensor |
-| Actuator | SG90 servo motor |
+| Actuator | YM-2765 servo motor |
 | Housing | Custom designed in SolidWorks, 3D printed (PLA) |
 | Ball | Standard golf ball |
 
