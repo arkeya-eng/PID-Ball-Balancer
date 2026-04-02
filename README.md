@@ -28,6 +28,7 @@ Two full design iterations were completed — a rough prototype to validate the 
 | Actuator | YM-2765 servo motor |
 | Housing | Custom designed in SolidWorks, 3D printed (PLA) |
 | Ball | Standard golf ball |
+| Structure | 2 x Steel (1m x 6mm) Rods|
 
 ## Repo Structure
 
