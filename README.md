@@ -81,6 +81,3 @@ A build and tuning walkthrough video is included in the `/media` folder (or link
 
 <!-- Add YouTube/drive link here if you upload the video externally -->
 
-## License
-
-MIT
