@@ -5,7 +5,7 @@ Designed and built a closed-loop control system that balances a golf ball on a b
 ![Demo Video](media/demo.gif)
 <!-- Replace with an actual gif or remove this line if you don't have one yet -->
 
-![Final Build V2](media/Ver2.PNG)
+![Final Build V2](media/Ver2.gif)
 
 ## Overview
 
