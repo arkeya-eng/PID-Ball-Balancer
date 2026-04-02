@@ -1,6 +1,6 @@
 # Golf Ball Balancing PID Controller
 
-A physical beam-and-ball balancing system using proportional-derivative (PD) control. Built from scratch — CAD, 3D printing, electronics, and embedded software.
+Designed and built a closed-loop control system that balances a golf ball on a beam in real time using an Arduino, IR distance sensor, and servo motor. Involved CAD design, 3D printing, sensor calibration, signal filtering, and PID controller tuning. Two full design iterations from prototype to final build.
 
 ![Demo Video](media/demo.gif)
 <!-- Replace with an actual gif or remove this line if you don't have one yet -->
