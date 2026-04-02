@@ -80,5 +80,5 @@ Loop rate ≈ 100 Hz (10 ms delay)
 
 A build and tuning walkthrough video is included in the `/media` folder (or linked below once uploaded).
 
-<!-- Add YouTube/drive link here if you upload the video externally -->
+(https://youtu.be/jKo0sEahJNQ)
 
