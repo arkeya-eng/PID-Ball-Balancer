@@ -56,8 +56,8 @@ Arduino Uno R3
 ├── 5V  →  IR sensor VCC (red)
 ├── GND →  IR sensor GND (black)
 ├── D9  →  Servo signal (orange)
-├── 5V  →  Servo VCC (red)
-└── GND →  Servo GND (brown)
+├── External Battery Holder (4xAA)  →  Servo VCC (red)
+└── GND & External GND →  Servo GND (brown)
 ```
 
 ## Control Parameters
